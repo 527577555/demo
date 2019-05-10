@@ -2,3 +2,4 @@ This is my log!
 Is is very important!
 I want to die!
 not important
+add a new function!
